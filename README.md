@@ -1,2 +1,2 @@
 # clangd-archvice
-archive clangd from platfrom more
+archive clangd from platform more
